@@ -1,0 +1,4 @@
+# рабочие папки прогонов skill-creator (ответы агента, тайминги) — не публикуются
+*-workspace/
+.DS_Store
+Thumbs.db
